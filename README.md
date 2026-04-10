@@ -14,6 +14,3 @@ Run the script with Python:
 python .\autoClicker.py
 ```
 
-## Git
-
-This repository includes a basic `.gitignore` for local editor, environment, and Python cache files.
